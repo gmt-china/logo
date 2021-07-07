@@ -4,5 +4,5 @@
 
 ![](gmt-china-logo.png)
 
-**GMT 与 GMT 中文社区联合 logo：** [PDF 格式](combined_logo.pdf) | [PNG 格式](gcombined_logo.png)
+**GMT 与 GMT 中文社区联合 logo：** [PDF 格式](combined_logo.pdf) | [PNG 格式](combined_logo.png)
 ![](combined_logo.png)
