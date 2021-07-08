@@ -17,7 +17,7 @@ gmt begin gmt-china-logo-square PNG A+n
 gmt end
 
 # 将 GMT logo 与 GMT 中文社区 logo 放一起
-gmt begin combined_logo png,pdf
+gmt begin gmt-china-combined-logo png,pdf
     gmt basemap -R0/16/0/4 -Jx1c -B+n
     gmt logo -DjTL+w8c
     echo 8.8 2.5 + | gmt text -F+f50p,1,lightred
