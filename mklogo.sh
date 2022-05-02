@@ -4,7 +4,7 @@
 #
 gmt begin gmt-china-logo pdf,jpg,PNG,eps
     gmt coast -Rd -JI110/10c -Dc -A10000 -G230/230/230 -S160/175/217
-    gmt plot CN-border-L1.gmt -W0.2p,red
+    gmt plot CN-border-L1.gmt -Gred
     echo 110 -20 GMT/China | gmt text -F+f35p,19,0/0/100
 gmt end
 
@@ -12,7 +12,7 @@ gmt end
 gmt begin gmt-china-logo-square PNG A+n
     gmt set PS_MEDIA 10cx10c
     gmt coast -Rd -JI110/10c -Dc -A10000 -G230/230/230 -S160/175/217 -Xc -Yc
-    gmt plot CN-border-L1.gmt -W0.2p,red
+    gmt plot CN-border-L1.gmt -Gred
     echo 110 -20 GMT/China | gmt text -F+f35p,19,0/0/100
 gmt end
 
